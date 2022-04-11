@@ -177,23 +177,23 @@ position: inherit;
 }
 #box-3 > div {
   background-color: rgb(186, 186, 2);
-  width: 60%;
+  width: 70%;
 }
 #box-4 > div {
   background-color: blue;
-  width: 80%;
+  width: 90%;
 }
 #box-5 > div {
   background-color: orange;
-  width: 50%;
+  width: 55%;
 }
 #box-6 > div {
   background-color: plum;
-  width: 60%;
+  width: 50%;
 }
 #box-7 > div {
   background-color: rgb(247, 131, 131);
-  width: 80%;
+  width: 85%;
 }
 #box-8 > div {
   background-color: rgb(128, 0, 106);
@@ -201,7 +201,7 @@ position: inherit;
 }
 #box-9 > div {
   background-color: rgb(87, 165, 224);
-  width: 50%;
+  width: 70%;
 }
 #box-10 > div {
   background-color: rgb(168, 140, 74);
@@ -213,7 +213,7 @@ position: inherit;
 }
 #box-12 > div {
   background-color: rgb(33, 176, 35);
-  width: 50%;
+  width: 70%;
 }
 
 .inside {
@@ -245,6 +245,11 @@ position: inherit;
   height: 38%;
   /* border: 2px solid black; */
   padding: 20px;
+}
+
+#ex1{
+  text-align: left;
+  margin-left: 45px;
 }
 
 .experiences:nth-child(2n),
